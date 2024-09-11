@@ -27,7 +27,7 @@ I'm open to collaboration and learning from fellow developers and tech enthusias
 **Connect With Me:**
 
 - LinkedIn: www.linkedin.com/in/subhash-somarouthu
-- Email: sspchakravarthy@gmail.com
+- Email: subhashsomarouthu2000@gmail.com
 
 Thank you for visiting my GitHub portfolio. I hope you find it informative and inspiring. Your feedback and suggestions are always welcome.
 
