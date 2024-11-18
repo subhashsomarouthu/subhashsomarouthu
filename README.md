@@ -7,7 +7,7 @@
 
 I am Subhash,
 
-An enthusiastic and inquisitive intern in the field of Data Science at Almabetter.
+
 
 With a strong academic background in Information Technology and 1.5 years of experience as a Quality Assurance Analyst, I have a solid foundation in Python, SQL.With a keen interest in cutting-edge technologies, I'm on a thrilling journey to explore the world of Data Science and Machine Learning, leveraging my skills to contribute to innovative projects.
 
